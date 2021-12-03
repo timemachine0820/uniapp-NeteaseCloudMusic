@@ -1,0 +1,30 @@
+
+.music-head.data-v-0142ad50 {
+	height: 75px;
+	width: 100%;
+	font-size: 16px;
+	line-height: 80px;
+	text-align: center;
+	color: #000;
+	position: relative;
+}
+.music-head-icon.data-v-0142ad50 {
+	position: absolute;
+	left: 8px;
+	top: 26px;
+	width: 90px;
+	height: 30px;
+	background-color: rgba(0, 0, 0, .4);
+	color: #FFFFFF;
+	line-height: 30px;
+	border-radius: 15px;
+	display: flex;
+	/* align-items: center; */
+	justify-content: space-evenly;
+}
+.music-head-iconblack.data-v-0142ad50{
+	color:#000000;
+	border: 1px solid #eaeaea;
+	background-color: #FFFFFF;
+}
+
